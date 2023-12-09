@@ -15,10 +15,10 @@ Follow the steps below to get started with the tutorial:
 
 1. Clone the repository or download the source code from [GitHub](https://github.com/kamaliki/golang).
 2. Open the terminal or command prompt and navigate to the project directory.
-3. Run the following command to build and run the greeting module:
+3. Run the following command to test the greeting module:
 
     ```shell
-    go run greeting.go
+    go test
     ```
 
 4. Next, build and run the hello module using the greeting module:
